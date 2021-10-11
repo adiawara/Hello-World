@@ -1,2 +1,2 @@
 # Hello-World
-This repository has been created in the learning process how to create a repository
+The "Hello World" project is a time-honoring project in computer programming
